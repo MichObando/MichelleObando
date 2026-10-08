@@ -1,0 +1,15 @@
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\bin\Debug\net10.0\MichelleObando.exe
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\bin\Debug\net10.0\MichelleObando.deps.json
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\bin\Debug\net10.0\MichelleObando.runtimeconfig.json
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\bin\Debug\net10.0\MichelleObando.dll
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\bin\Debug\net10.0\MichelleObando.pdb
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\MichelleObando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\MichelleObando.AssemblyInfoInputs.cache
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\MichelleObando.AssemblyInfo.cs
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\MichelleObando.csproj.CoreCompileInputs.cache
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\MichelleObando.dll
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\refint\MichelleObando.dll
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\MichelleObando.pdb
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\MichelleObando.genruntimeconfig.cache
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\ref\MichelleObando.dll
+C:\Users\oband\Documents\Programacion ll\MichelleObando\MichelleObando\obj\Debug\net10.0\Michelle.8EE7941C.Up2Date
